@@ -1,0 +1,11 @@
+C:\Moje programiki\Camera\CameraForms\CameraForms\bin\Debug\CameraForms.exe.config
+C:\Moje programiki\Camera\CameraForms\CameraForms\bin\Debug\CameraForms.exe
+C:\Moje programiki\Camera\CameraForms\CameraForms\bin\Debug\CameraForms.pdb
+C:\Moje programiki\Camera\CameraForms\CameraForms\obj\Debug\CameraForms.csprojAssemblyReference.cache
+C:\Moje programiki\Camera\CameraForms\CameraForms\obj\Debug\CameraForms.Form1.resources
+C:\Moje programiki\Camera\CameraForms\CameraForms\obj\Debug\CameraForms.Properties.Resources.resources
+C:\Moje programiki\Camera\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.GenerateResource.cache
+C:\Moje programiki\Camera\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.CoreCompileInputs.cache
+C:\Moje programiki\Camera\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.CopyComplete
+C:\Moje programiki\Camera\CameraForms\CameraForms\obj\Debug\CameraForms.exe
+C:\Moje programiki\Camera\CameraForms\CameraForms\obj\Debug\CameraForms.pdb
